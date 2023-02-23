@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/chirandevindaweb/static/css/main.4c3b3fb0.chunk.css",
+    "main.js": "/chirandevindaweb/static/js/main.5feb241a.chunk.js",
+    "main.js.map": "/chirandevindaweb/static/js/main.5feb241a.chunk.js.map",
+    "runtime-main.js": "/chirandevindaweb/static/js/runtime-main.416b5a8e.js",
+    "runtime-main.js.map": "/chirandevindaweb/static/js/runtime-main.416b5a8e.js.map",
+    "static/js/2.b10167eb.chunk.js": "/chirandevindaweb/static/js/2.b10167eb.chunk.js",
+    "static/js/2.b10167eb.chunk.js.map": "/chirandevindaweb/static/js/2.b10167eb.chunk.js.map",
+    "index.html": "/chirandevindaweb/index.html",
+    "static/css/main.4c3b3fb0.chunk.css.map": "/chirandevindaweb/static/css/main.4c3b3fb0.chunk.css.map",
+    "static/js/2.b10167eb.chunk.js.LICENSE.txt": "/chirandevindaweb/static/js/2.b10167eb.chunk.js.LICENSE.txt",
+    "static/media/MY_IMG.e9778229.png": "/chirandevindaweb/static/media/MY_IMG.e9778229.png",
+    "static/media/address.a01cb8cc.png": "/chirandevindaweb/static/media/address.a01cb8cc.png",
+    "static/media/email.a49e0158.png": "/chirandevindaweb/static/media/email.a49e0158.png",
+    "static/media/instagram.ead1470f.png": "/chirandevindaweb/static/media/instagram.ead1470f.png",
+    "static/media/moon.3bea3d39.png": "/chirandevindaweb/static/media/moon.3bea3d39.png",
+    "static/media/moti.df4cd3a7.png": "/chirandevindaweb/static/media/moti.df4cd3a7.png",
+    "static/media/phone.d90a6d23.png": "/chirandevindaweb/static/media/phone.d90a6d23.png",
+    "static/media/sun.f794832a.png": "/chirandevindaweb/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.416b5a8e.js",
+    "static/js/2.b10167eb.chunk.js",
+    "static/css/main.4c3b3fb0.chunk.css",
+    "static/js/main.5feb241a.chunk.js"
+  ]
+}
