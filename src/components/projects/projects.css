@@ -1,0 +1,62 @@
+.a {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+  margin-top: 10;
+}
+
+
+.a-card.bg {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  background-color: #333;
+}
+.projectcard{
+  margin: 10px;
+  margin-left: 250px;
+  
+}
+
+.a-card {
+  width: 60%;
+  height: 70vh;
+  border-radius: 30px;
+  position: relative;
+  overflow: hidden;
+}
+
+
+.a-title {
+  font-weight: 400;
+  align-items: center;
+  font-size: xx-large;
+  margin-left: 700px;
+
+}
+
+
+@media screen and (max-width:480px) {
+    .a{
+      flex-direction: column;
+      text-align: center;
+      margin-top: 50px;
+    }
+
+    .a-left {
+      width: 100%;
+    }
+
+    .a-card {
+      height: 30vh;
+    }
+
+    .a-card.bg, .a-award {
+      display: none;
+    }
+
+    .a-right{
+      padding: 20px;
+    }
+}

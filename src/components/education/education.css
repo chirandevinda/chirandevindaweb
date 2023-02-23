@@ -1,0 +1,73 @@
+.main {
+    padding: 100px;
+    padding-left: 200px;
+}
+.title {
+    font-weight: 400;
+    padding-left: 500px;
+    padding-bottom: 40px;
+    font-size: xx-large;
+}
+  
+.tabname{
+    /* padding: 200px; */
+    margin-left: 200px;
+    /* color: rgb(16, 227, 9); */
+}
+.tabspace{
+    /* color: red; */
+    /* background-color: blanchedalmond; */
+    /* margin: 200px; */
+    margin-left: 400px;
+    /* align-items: center; */
+}
+.school{
+    font-weight: 40000;
+    /* color: rgb(26, 193, 31); */
+    font-size: larger;
+    margin: 10px;
+}
+.result{
+    font-size: medium;
+    margin: 10px;
+}
+.duratoin{
+    font-size: medium;
+    margin: 10px;
+}
+@media screen and (max-width: 480px) {
+    .c-wrapper {
+      flex-direction: column;
+      padding: 0px 50px;
+    }
+  
+    .c-title {
+      font-size: 30px;
+    }
+  
+    .c-info-item {
+      margin: 20px 0px;
+      width: 100%;
+    }
+  
+    .c-desc {
+      display: none;
+    }
+  
+    form {
+      margin-top: 0px;
+      display: flex;
+      flex-wrap: wrap;
+    }
+  
+    input {
+      width: 35%;
+      height: 40px;
+      margin: 10px;
+      margin-left: 0;
+    }
+  
+    button {
+      margin-top: 10px;
+    }
+  }
